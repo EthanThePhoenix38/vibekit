@@ -27,8 +27,8 @@
   "license": "MIT",
   "dependencies": {
     "@dagger.io/dagger": "^0.18.14",
-    "ai": "5.0.70",
-    "next": "15.5.5"
+    "ai": "6.0.116",
+    "next": "16.1.7"
   },
   "peerDependencies": {
     "@vibe-kit/sdk": "*"
