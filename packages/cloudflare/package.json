@@ -32,6 +32,6 @@
     "@types/node": "^22.15.18",
     "tsup": "^8.4.0",
     "typescript": "^5.8.3",
-    "wrangler": "^4.26.0"
+    "wrangler": "^4.59.1"
   }
 }
