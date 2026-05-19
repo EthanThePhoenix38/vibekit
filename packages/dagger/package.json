@@ -28,7 +28,7 @@
   "dependencies": {
     "@dagger.io/dagger": "^0.18.14",
     "ai": "5.0.70",
-    "next": "15.5.5"
+    "next": "15.5.18"
   },
   "peerDependencies": {
     "@vibe-kit/sdk": "*"
